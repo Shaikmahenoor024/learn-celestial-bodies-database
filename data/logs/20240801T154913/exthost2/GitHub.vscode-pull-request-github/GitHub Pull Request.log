@@ -29,3 +29,9 @@
 2024-08-01 16:03:15.011 [info] No GitHub remotes found for folder /workspace/.vscode-remote
 2024-08-01 16:03:15.031 [info] Review+0> No matching pull request metadata found locally for current branch master
 2024-08-01 16:03:15.053 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:03:35.292 [info] Review+0> Validate state in progress
+2024-08-01 16:03:35.292 [info] Review+0> Validating state...
+2024-08-01 16:03:35.297 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:03:35.297 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:03:35.320 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:03:35.343 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
