@@ -1,0 +1,31 @@
+2024-08-01 16:02:55.930 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2024-08-01 16:02:55.930 [info] Activation> Extension version: 0.92.0
+2024-08-01 16:02:58.823 [info] Looking for git repository
+2024-08-01 16:02:58.823 [info] Found 0 repositories during activation
+2024-08-01 16:02:58.823 [info] Git repository found, initializing review manager and pr tree view.
+2024-08-01 16:02:58.823 [info] Registering git provider
+2024-08-01 16:03:05.025 [info] Repository file:///workspace/.vscode-remote has been opened
+2024-08-01 16:03:05.025 [info] Review+0> Validate state in progress
+2024-08-01 16:03:05.025 [info] Review+0> Validating state...
+2024-08-01 16:03:05.027 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:03:05.027 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:03:05.080 [info] Review+0> Queuing additional validate state
+2024-08-01 16:03:05.083 [info] Repo state for file:///workspace/.vscode-remote changed.
+2024-08-01 16:03:05.083 [info] Repo file:///workspace/.vscode-remote has already been setup.
+2024-08-01 16:03:05.152 [info] Review+0> Queuing additional validate state
+2024-08-01 16:03:06.272 [info] Review+0> Validating state...
+2024-08-01 16:03:06.273 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:03:06.273 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:03:06.290 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:03:06.300 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:03:07.522 [info] Review+0> Validating state...
+2024-08-01 16:03:07.523 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:03:07.523 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:03:07.539 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:03:07.550 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
+2024-08-01 16:03:15.010 [info] Review+0> Validate state in progress
+2024-08-01 16:03:15.010 [info] Review+0> Validating state...
+2024-08-01 16:03:15.011 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-01 16:03:15.011 [info] No GitHub remotes found for folder /workspace/.vscode-remote
+2024-08-01 16:03:15.031 [info] Review+0> No matching pull request metadata found locally for current branch master
+2024-08-01 16:03:15.053 [info] Review+0> No matching pull request metadata found on GitHub for current branch master
